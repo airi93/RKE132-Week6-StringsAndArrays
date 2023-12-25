@@ -1,0 +1,14 @@
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\bin\Debug\net6.0\RandomElement.exe
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\bin\Debug\net6.0\RandomElement.deps.json
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\bin\Debug\net6.0\RandomElement.runtimeconfig.json
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\bin\Debug\net6.0\RandomElement.dll
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\bin\Debug\net6.0\RandomElement.pdb
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.AssemblyInfoInputs.cache
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.AssemblyInfo.cs
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.csproj.CoreCompileInputs.cache
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.dll
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\obj\Debug\net6.0\refint\RandomElement.dll
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.pdb
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\obj\Debug\net6.0\RandomElement.genruntimeconfig.cache
+C:\Users\airi9\source\repos\6WeekStringsAndArrays\RandomElement\obj\Debug\net6.0\ref\RandomElement.dll
